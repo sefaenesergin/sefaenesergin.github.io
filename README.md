@@ -60,11 +60,17 @@ The project consists of two folders (pictures, sounds) and 3 files. The images u
 
 
 `class Player:` Elon Musk was here.
+
 `class Obstacles:` Enemy coins place here.
+
 `class Text:` Text place was here.
+
 `function Start():` This function will be start game.
+
 `function Update():` This function update all other functions and objects.
+
 `function SpawnObstacle():`  This function create enemy coins.
+
 `function RandomIntInRange():` This function gıve random place.
 
 
