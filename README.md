@@ -49,8 +49,14 @@ You can clone the repo with this code : gh repo clone sefaenesergin.github.io
 ## Game Images
 
 
-add a photo
 
+Normally game screenShot
+![ım1](https://github.com/sefaenesergin/sefaenesergin.github.io/blob/main/images/Ekran%20Resmi%202021-05-09%2017.18.30.png)
+
+
+
+The character is crouching
+![ım2](https://github.com/sefaenesergin/sefaenesergin.github.io/blob/main/images/Ekran%20Resmi%202021-05-09%2017.16.47.png)
 
 
 ## For Developers
