@@ -42,7 +42,7 @@ or
 For production environments...
 
 ```sh
-You can clone the repo with this code : gh repo clone sefaenesergin / elonmusk2077
+You can clone the repo with this code : gh repo clone sefaenesergin.github.io
 
 ```
 
