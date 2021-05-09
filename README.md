@@ -58,13 +58,13 @@ add a photo
 The project consists of two folders (pictures, sounds) and 3 files. The images used in the game content are included in the images folder. The sounds folder contains the sound effects in the game. For those who want to work on or develop the project, the information about why certain functions and classes in the source code are used and their content are listed below :
 
 
-`'class Player:'`Elon Musk was here.
-`'class Obstacles:'`Enemy coins place here.
-`'class Text:'`Text place was here.
-`'function Start():'`This function will be start game.
-`'function Update():'`This function update all other functions and objects.
-`'function SpawnObstacle():'` This function create enemy coins.
-`'function RandomIntInRange():'`This function gıve random place.
+-`'class Player:'`Elon Musk was here.
+-`'class Obstacles:'`Enemy coins place here.
+-`'class Text:'`Text place was here.
+-`'function Start():'`This function will be start game.
+-`'function Update():'`This function update all other functions and objects.
+-`'function SpawnObstacle():'` This function create enemy coins.
+-`'function RandomIntInRange():'`This function gıve random place.
 
 
 ## Author
@@ -78,4 +78,6 @@ Sefa Enes ERGIN
 MIT
 
 **Free Software for Everyone!**
+
+
 
