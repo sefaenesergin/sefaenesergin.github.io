@@ -7,7 +7,7 @@
 
 
 Powered by HTML5 and JS, this 2D game is a simple game. 
- [Click](sefaenesergin.github.io) here for live demo. Have fun.
+ [Click](https://sefaenesergin.github.io/) here for live demo. Have fun.
 
 
 
@@ -42,7 +42,7 @@ or
 For production environments...
 
 ```sh
-You can clone the repo with this code : gh repo clone sefaebesergin / elonmusk2077
+You can clone the repo with this code : gh repo clone sefaenesergin / elonmusk2077
 
 ```
 
